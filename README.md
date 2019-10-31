@@ -5,5 +5,5 @@
 
 ### Array Manipulation
 
-* [Given a list find merged times]()
+* [Given a list find merged times](/array_manipulation/find_merge_times.py)
 
