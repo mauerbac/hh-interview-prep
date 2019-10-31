@@ -1,7 +1,7 @@
 # HH Interview Prep
 ![banner image](https://mauerbac-web-images.s3-us-west-2.amazonaws.com/hh-banner.jpg)
 
-## Subjects
+## Topics
 
 ### Array Manipulation
 
