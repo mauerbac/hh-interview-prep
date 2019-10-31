@@ -7,3 +7,6 @@
 
 * [Given a list find merged times](/array_manipulation/find_merge_times.py)
 
+### General Algorithms
+
+* [Find Highest Product](/general/algorithms/find_highest_product.py)
