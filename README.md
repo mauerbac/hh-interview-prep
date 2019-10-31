@@ -9,4 +9,4 @@
 
 ### General Algorithms
 
-* [Find Highest Product](/general/algorithms/find_highest_product.py)
+* [Find Highest Product](/general_algorithms/find_highest_product.py)
